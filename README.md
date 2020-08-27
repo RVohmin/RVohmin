@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[RVohmin])
+![Profile views](https://gpvc.arturio.dev/RVohmin)
 ### Hi there 👋
 
 <!--
