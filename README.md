@@ -3,7 +3,7 @@
 # Вохмин Роман Александрович
 ### Стек применяемых технологий: HTML5, CSS3, JS, JQuery, Java Core, Maven, PostgreSQL, Hibernate, Servlets, Spring
 #### Проекты:
-#### ⚡ (https://github.com/RVohmin/Auto-Market) Auto-market - площадка продажи автомобилей
+#### ⚡ ![Auto-market](https://github.com/RVohmin)Auto-market - площадка продажи автомобилей
 #### ⚡ TODO - менеджер-планировщик задач
 #### ⚡ Dream Job - менеджер вакансий и кандидатов
 #### ⚡ Cinema - кинотеатр с возможностью покупки билетов
