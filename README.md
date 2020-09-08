@@ -4,10 +4,10 @@
 ### Стек применяемых технологий: HTML5, CSS3, JS, JQuery, Java Core, Maven, PostgreSQL, Hibernate, Servlets, Spring
 #### Проекты:
 #### ⚡ [Auto-market](https://github.com/RVohmin/Auto-Market) - площадка продажи автомобилей
-#### ⚡ TODO - менеджер-планировщик задач
-#### ⚡ Dream Job - менеджер вакансий и кандидатов
-#### ⚡ Cinema - кинотеатр с возможностью покупки билетов
-#### ⚡ tracker - учебный проект, менеджер заявок (ООП, Collection, JDBC, Hibernate)
+#### ⚡ [TODO](https://github.com/RVohmin/todo) - менеджер-планировщик задач
+#### ⚡ [Dream Job](https://github.com/RVohmin/job4j_dreamjob) - менеджер вакансий и кандидатов
+#### ⚡ [Cinema](https://github.com/RVohmin/job4j_cinema) - кинотеатр с возможностью покупки билетов
+#### ⚡ [tracker](https://github.com/RVohmin/job4j_tracker) - учебный проект, менеджер заявок (ООП, Collection, JDBC, Hibernate)
 
 <!--
 **RVohmin/RVohmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
