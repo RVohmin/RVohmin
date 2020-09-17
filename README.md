@@ -4,6 +4,7 @@
 ### Стек применяемых технологий: HTML5, CSS3, JS, JQuery, Java Core, Maven, PostgreSQL, Hibernate, Servlets, Spring
 #### Проекты:
 #### ⚡ [Auto-market](https://github.com/RVohmin/Auto-Market) - площадка продажи автомобилей
+#### ⚡ [Accidents](https://github.com/RVohmin/job4j_car_accident) - WEB-приложение по учёту дорожных инцидентов
 #### ⚡ [TODO](https://github.com/RVohmin/todo) - менеджер-планировщик задач
 #### ⚡ [Dream Job](https://github.com/RVohmin/job4j_dreamjob) - менеджер вакансий и кандидатов
 #### ⚡ [Cinema](https://github.com/RVohmin/job4j_cinema) - кинотеатр с возможностью покупки билетов
