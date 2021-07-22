@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/RVohmin)
 ## Репозиторий JAVA разработчика
 # Вохмин Роман Александрович
-### Стек применяемых технологий: HTML5, CSS3, JS, JQuery, Java Core, Maven, PostgreSQL, Hibernate, Servlets, Spring
+### Стек применяемых технологий: Java Core, Spring (Core, Boot, Data, Security, Cloud), PostgreSQL, Hibernate, Maven/Gradle, HTML5, CSS3, JS, JQuery, 
 #### Проекты:
 #### ⚡ [Auto-market](https://github.com/RVohmin/Auto-Market) - площадка продажи автомобилей
 #### ⚡ [Forum](https://github.com/RVohmin/job4j_forum) - форум (Spring Boot + Security + Liquibase + TravisCI)  
